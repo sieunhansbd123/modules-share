@@ -2,7 +2,7 @@
 	name: "box",
 	version: "0.0.1-beta",
 	hasPermssion: 0,
-	credits: "Lợi",
+	credits: "thdtrumcoder",
 	description: "Các tag của box: info, id, emoji, name",
 	commandCategory: "Info",
 	usages: "boxin4",
